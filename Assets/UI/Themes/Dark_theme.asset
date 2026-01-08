@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba1deb60101152419f7f6c2a03c2b8c, type: 3}
+  m_Name: Dark_theme
+  m_EditorClassIdentifier: 
+  backgroundColor: {r: 0.24528301, g: 0.24019223, b: 0.24019223, a: 1}
+  surfaceColor: {r: 0.38679248, g: 0.38679248, b: 0.38679248, a: 1}
+  Icons: {r: 1, g: 1, b: 1, a: 1}
+  cardColor: {r: 0, g: 0, b: 0, a: 0}
+  CardColor2: {r: 0.4641509, g: 0.46152365, b: 0.46152365, a: 1}
+  CardColor3: {r: 0.4627451, g: 0.4627451, b: 0.4627451, a: 1}
+  CardColor4: {r: 0.4627451, g: 0.4627451, b: 0.4627451, a: 1}
+  primaryText: {r: 1, g: 1, b: 1, a: 1}
+  secondaryText: {r: 0.78113204, g: 0.78113204, b: 0.78113204, a: 1}
+  buttonNormal: {r: 0.3490566, g: 0.34411713, b: 0.34411713, a: 1}
+  buttonHighlighted: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 1}
+  buttonPressed: {r: 0.96832097, g: 1, b: 0.6, a: 1}
+  buttonDisabled: {r: 0.6039216, g: 0.58431375, b: 0.58431375, a: 1}
+  accentColor: {r: 0, g: 0.78867924, b: 0, a: 1}
