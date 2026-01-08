@@ -143,7 +143,7 @@ Tween-based animations were chosen over keyframes for:
 
 ## 🚀 How to Run
 
-1. Open the project in **Unity (2021 or newer recommended)**
+1. Open the project in **Unity (6000.0.59 or newer recommended)**
 2. Load the main dashboard scene
 3. Enter Play Mode
 4. Test:
